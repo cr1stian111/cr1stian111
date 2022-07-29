@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es Cristian</h1>
 <h3 align="center">Soy programador (y curioso por naturaleza).</h3>
 
-<h3 align="left">Conecta conmigo:</h3>
+<!--<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<!--<a href="https://www.linkedin.com/in/cristian111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian111/" height="30" width="40" /></a>-->
+<a href="https://www.linkedin.com/in/cristian111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian111/" height="30" width="40" /></a>-->
 <a href="https://es.stackoverflow.com/users/128552/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/128552/" height="30" width="40" /></a>
 </p>
 
